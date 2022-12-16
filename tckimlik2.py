@@ -1,3 +1,23 @@
+
+
+
+
+
+
+os​.​system​(​"figlet arda.oficial"​) | lolcat
+  
+  
+  
+ ​print​ (​''' 
+ ​__________________________________ 
+ ​ Kod Sahibi :@arda.officiall
+ ​ İnstagram :@arda.officiall
+ ​__________________________________ 
+ ​'''​) | lolcat
+
+
+
+
 tcno = input("TC Kimlik No İlk 9 Hanesini Giriniz: ")
 a, b, toplamDokuz = 0, 0, 0
 for i in range(9):
