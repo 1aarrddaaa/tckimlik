@@ -1,4 +1,3 @@
-# -*- coding: cp1254 -*-
 #TC Kimlik No Son 2 Haneyi Bulma!
 
 #TC No adinda bir fonksiyon icersinde bu islerimizi yapiyoruz.
